@@ -3,7 +3,7 @@
 Baseline speaker anonymization
 
 
-# Speaker 1 : 
+# Speaker 1 (PT-F): 
 
 Original audio
 
@@ -17,7 +17,7 @@ MultiLingual
 
 https://github.com/user-attachments/assets/19d6d10e-95ba-46d7-b40d-5537d26a772f
 
-# Speaker 2 :
+# Speaker 2 (PT-F):
 
 Original audio
 
