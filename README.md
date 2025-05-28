@@ -9,18 +9,6 @@ Baseline speaker anonymization
 
 
 
-Original audio
-
-https://github.com/user-attachments/assets/1887929a-5cc9-47d3-b96d-980534b9b504
-
-McAdams
-
-https://github.com/user-attachments/assets/1e7bdfe0-4b9f-4d5a-8e30-44ffb2365ed0
-
-MultiLingual
-
-https://github.com/user-attachments/assets/f5d4c661-8407-4925-b2c8-4f2960f229ce
-
 
 
 
