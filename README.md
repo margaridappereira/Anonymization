@@ -2,6 +2,10 @@
 
 Baseline speaker anonymization
 
+| Speaker | Original | McAdams | Multilingual |
+|---------|----------|---------|--------------|
+| #1 PT-F |https://github.com/user-attachments/assets/cd365142-3651-467b-85d1-0aa9db8823c9| https://github.com/user-attachments/assets/d7789a44-1703-4787-bc1b-317d6e11ca53|https://github.com/user-attachments/assets/19d6d10e-95ba-46d7-b40d-5537d26a772f|
+| #2 PT-F |
 
 # Speaker 1 (PT-F): 
 
