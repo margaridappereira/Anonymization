@@ -8,10 +8,29 @@ Baseline speaker anonymization
 | #2 PT-F |<video src="https://github.com/user-attachments/assets/1887929a-5cc9-47d3-b96d-980534b9b504">|<video src="https://github.com/user-attachments/assets/1e7bdfe0-4b9f-4d5a-8e30-44ffb2365ed0">|<video src="https://github.com/user-attachments/assets/f5d4c661-8407-4925-b2c8-4f2960f229ce">|
 | #1 PT-M |        |           |              |
 | #2 PT-M |        |           |              |
-| #1 BR-F |        |           |              |
-| #2 BR-F |        |           |              |
+| #1 BR-F |<video src="https://github.com/user-attachments/assets/e9a39dee-ee1d-4aa1-87c4-c2626b0e420b">|<video src="https://github.com/user-attachments/assets/079bc81a-4bbe-4dec-99cb-22a1675094f9">|<video src="https://github.com/user-attachments/assets/3bca1f2d-cafb-45e4-b1cc-68a92cdf3964">|
+| #2 BR-F |<video src="https://github.com/user-attachments/assets/1f5b6150-31ee-4157-a521-11bc19e5e003">|<video src="https://github.com/user-attachments/assets/480111e0-6fc4-4cd4-abed-b16423c6960d">|<video src="https://github.com/user-attachments/assets/22e25809-0034-476e-82f0-3a604cbbfefa">|
 | #1 BR-M |        |           |              |
 | #2 BR-M |        |           |              |
+
+
+
+
+
+
+
+
+
+
+<video src="">
+
+
+
+
+
+
+
+
 
 
 
